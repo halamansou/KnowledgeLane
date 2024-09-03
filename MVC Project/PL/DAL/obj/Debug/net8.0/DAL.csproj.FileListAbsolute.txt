@@ -1,0 +1,11 @@
+D:\MVC Project\PL\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\MVC Project\PL\DAL\bin\Debug\net8.0\DAL.dll
+D:\MVC Project\PL\DAL\bin\Debug\net8.0\DAL.pdb
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\DAL.dll
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\DAL.pdb
+D:\MVC Project\PL\DAL\obj\Debug\net8.0\ref\DAL.dll

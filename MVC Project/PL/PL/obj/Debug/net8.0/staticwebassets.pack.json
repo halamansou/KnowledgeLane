@@ -1,0 +1,973 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PL.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\css\\main.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Education - Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Education - Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Education - Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Education - Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Education - Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Education - Doc\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\index.html",
+      "PackagePath": "staticwebassets\\Education - Doc\\index.html"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\Education - Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Education - Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\main.map",
+      "PackagePath": "staticwebassets\\css\\main.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\b2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\b3.jpg",
+      "PackagePath": "staticwebassets\\img\\b3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\b4.jpg",
+      "PackagePath": "staticwebassets\\img\\b4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\ads-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\ads-banner.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\blog-home-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-home-banner.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\cat-widget1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\cat-widget2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\cat-widget3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\feature-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\feature-img3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\feature-img4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\feature-img5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img5.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\pp1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\pp2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\pp3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\pp4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\s-img.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\s-img.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\blog\\user-info.png",
+      "PackagePath": "staticwebassets\\img\\blog\\user-info.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\e1.jpg",
+      "PackagePath": "staticwebassets\\img\\e1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\e2.jpg",
+      "PackagePath": "staticwebassets\\img\\e2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\event-details-img.jpg",
+      "PackagePath": "staticwebassets\\img\\event-details-img.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g5.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g6.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\gallery\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\g7.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\m-img.jpg",
+      "PackagePath": "staticwebassets\\img\\m-img.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\p1.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\p2.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\p3.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\p4.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\play.png",
+      "PackagePath": "staticwebassets\\img\\play.png"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\s-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\s-bg.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\search-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\search-bg.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\top-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\top-banner.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\js\\hoverIntent.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\jquery.tabs.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.tabs.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\superfish.min.js",
+      "PackagePath": "staticwebassets\\js\\superfish.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MVC Project\\PL\\PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PL.props",
+      "PackagePath": "build\\PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PL.props",
+      "PackagePath": "buildMultiTargeting\\PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PL.props",
+      "PackagePath": "buildTransitive\\PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
